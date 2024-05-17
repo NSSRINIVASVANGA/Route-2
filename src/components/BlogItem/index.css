@@ -1,0 +1,17 @@
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  color: #9aa5b1;
+}
+
+.desc {
+  color: #9aa5b1;
+}
+
+.head{
+  color: #12022f;
+  font-size: 22px;
+}
